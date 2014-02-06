@@ -1,14 +1,5 @@
 ﻿code
-Img2Video.cpp source file
-|--x64
-|   |--release
-|        |--Img2Video.exe 64-bit executable file
-|           *.dll         some dll files
-|—linux
-   
-   |—-img2Video linux executable file
-    
-      img2Video.cpp linux source file
+
 /******************************************************************
  *Img2Video : read a sequence of images under a directory (you need to provide a begin and end number of these images, some images
               in between are missing is OK), output a video with smear region marked (in green color)
